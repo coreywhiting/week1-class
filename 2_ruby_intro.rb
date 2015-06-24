@@ -1,21 +1,21 @@
 # Uncomment as you go along for a self-running demo.
 
-# name = "Cookie Monster"
+name = "Cookie Monster"
 
-# puts name
+puts name
 
-# puts("Hello, my name is " + name)
+puts("Hello, my name is " + name)
 
-# puts("Hello, my name is also #{name}")
+puts("Hello, my name is also #{name}")
 
 
 
-# lucky_number = 13
+lucky_number = 13
 
-# puts lucky_number
+puts lucky_number
 
-# puts "My lucky number is " + lucky_number.to_s
+puts "My lucky number is " + lucky_number.to_s
 
 # puts "My lucky number is " + lucky_number
 
-# puts "My lucky number is also #{lucky_number}"
+puts "My lucky number is also #{lucky_number}"
